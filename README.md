@@ -10,6 +10,7 @@ I think that is why I started having passion about building software and appplic
 
 I am an open-minded life long learner as technology definitely keeps innovating.I am an open-minded lifelong learner as technology keeps innovating.  I believe open-source learning brings extremely huge power to any of us. So feel free to connect with me if you would like to!  :sparkling_heart:
 
+
 Currently working as Software Developer
 
 Interests: coding, programming, creating something cool 
@@ -31,7 +32,7 @@ Have done a community non-profit project
 
 **Languages:** Java, Javascript, TypeScript, Python, SQL, C++ 
 
-**Developement Tools and Libraries:**  MySQL, MariaDB, HediSQL, PostGreSQL, Postman(REST API), React, React Redux, 
+**Developement Tools and Libraries:**  MySQL, MariaDB, HediSQL, PostGreSQL, Postman(REST API), React, React Redux, Django
 
 **IDE:**   Visual Studio, Apache Netbeans,Intellij IDEA, SpringBoot, Node.js, Xcode ,Eclipse, 
 
@@ -39,7 +40,13 @@ Have done a community non-profit project
 
 **Operation System: Linux/Unix/Windows
 
-**Other tools:** canva, diagrams.net
+**Other tools:** canva, diagrams.net, figma, QT Design(C++)
 
 ### Product Management: 
 Agile, Scrum, Sprint, Jira
+
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+
+https://img.shields.io/badge/{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}-{rgb(173,86,86)}?style=for-the-badge&logo={LinkedIn}&logoColor=white
