@@ -1,6 +1,8 @@
 # HELLO THERE  :relaxed:
 
-# About me
+### Nice to see you coming here :heart: :heart: :heart:
+
+# About me :girl:
 
 Currently working as Software Developer
 
