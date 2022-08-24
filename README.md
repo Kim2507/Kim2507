@@ -52,6 +52,4 @@ Agile, Scrum, Sprint, Jira
 
 
 
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
-https://img.shields.io/badge/{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}-{rgb(173,86,86)}?style=for-the-badge&logo={LinkedIn}&logoColor=white
