@@ -8,7 +8,7 @@ Hi, my name is Kim. I love Lego since I was a kid and I enjoyed the feeling when
 
 I think that is why I started having passion about building software and appplications. One thing I love most about Software Developement is I can bring my creative ideas into life and I can be the one who make it comes true. 
 
-I am an open-minded life long learner as technology definitely keeps innovating.I am an open-minded lifelong learner as technology keeps innovating.  I believe open-source learning brings extremely huge power to any of us. So feel free to connect with me if you would like to!  :sparkling_heart:
+I am an open-minded life long learner as technology definitely keeps innovating. I believe open-source learning brings extremely huge power to any of us. So feel free to connect with me if you would like to!  :sparkling_heart:
 
 
 Currently working as Software Developer
